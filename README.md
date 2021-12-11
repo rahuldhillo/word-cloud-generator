@@ -1,7 +1,7 @@
 [![Go Test](https://github.com/wickett/word-cloud-generator/actions/workflows/go.yml/badge.svg)](https://github.com/wickett/word-cloud-generator/actions/workflows/go.yml) [![CircleCI](https://circleci.com/gh/wickett/word-cloud-generator/tree/master.svg?style=svg)](https://circleci.com/gh/wickett/word-cloud-generator/tree/master)
 
 # word-cloud-generator
-It's a golang web app that takes a block of text and turns it into a word cloud. 
+I have edited readme. It's a golang web app that takes a block of text and turns it into a word cloud. 
 Star this repo if you like the class!
 
 ## Notice
